@@ -1,3 +1,4 @@
+
 # https://stackoverflow.com/questions/40943625/connect-to-mysql-with-sqlalchemy-and-query/40944291#40944291
 
 from flask import Flask, request, url_for, render_template, redirect
